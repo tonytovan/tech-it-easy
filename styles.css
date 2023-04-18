@@ -1,0 +1,17 @@
+#items-sold {
+    border: 1px solid #2A9D8F;
+    color: #2A9D8F;
+    background-color: #EFFBF9;
+}
+
+#original-items {
+    border: 1px solid #47829A;
+    color: #47829A;
+    background-color: #F1F6F9;
+}
+
+#items-left-to-sell {
+    border: 1px solid #E24D28;
+    color: #E24D28;
+    background-color: #FDF0ED;
+}
